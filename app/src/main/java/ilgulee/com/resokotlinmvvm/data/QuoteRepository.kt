@@ -1,5 +1,7 @@
 package ilgulee.com.resokotlinmvvm.data
 
+import ilgulee.com.resokotlinmvvm.data.model.Quote
+
 // FakeQuoteDao must be passed in - it is a dependency
 // You could also instantiate the DAO right inside the class without all the fuss, right?
 // No. This would break testability - you need to be able to pass a mock version of a DAO

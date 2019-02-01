@@ -34,4 +34,7 @@ dependencies {
 
     // Lifecycle
     implementation "androidx.lifecycle:lifecycle-extensions:2.1.0-alpha02"
+    //Kodein DI
+    implementation 'org.kodein.di:kodein-di-generic-jvm:6.0.1'
+    implementation 'org.kodein.di:kodein-di-framework-android-x:6.0.1'
 }

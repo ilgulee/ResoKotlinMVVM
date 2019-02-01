@@ -1,4 +1,4 @@
-package ilgulee.com.resokotlinmvvm.data
+package ilgulee.com.resokotlinmvvm.data.model
 
 data class Quote(val quoteText: String,
                  val author: String) {
